@@ -1,3 +1,4 @@
+#haskell chapter-4
 -- HC4T1 - weatherReport
 weatherReport :: String -> String
 weatherReport "sunny"  = "It's a bright and beautiful day!"
